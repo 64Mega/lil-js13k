@@ -1,5 +1,8 @@
 'use strict';
 
+// BEWARE: Here be messy and incoherent code and/or dragons.
+// You have been warned.
+
 let GTICK = 0;
 
 let GAMESTATES = {
